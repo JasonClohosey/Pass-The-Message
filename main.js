@@ -1,1 +1,3 @@
-alert ("pst!!!");
+function deliverMeassage() {
+    
+});

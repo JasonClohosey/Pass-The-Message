@@ -1,3 +1,15 @@
 body {
     background-color: darkgoldenrod;
 }
+#messageDiv {
+    background-color: darkgray;
+    height: auto;
+    width: 550px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+input {
+    
+}
