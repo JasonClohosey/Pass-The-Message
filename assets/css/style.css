@@ -10,6 +10,6 @@ body {
 h1 {
     text-align: center;
 }
-input {
-    
+#input {
+    text-align: center;
 }
