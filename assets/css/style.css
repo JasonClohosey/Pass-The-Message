@@ -1,15 +1,25 @@
 body {
-    background-color: darkgoldenrod;
+    background-color: rgb(93, 192, 223);
 }
 #messageDiv {
-    background-color: darkgray;
-    height: auto;
+    background-color: rgb(149, 149, 149);
+    height: 350px;
     width: 550px;
     margin: auto;
-}
-h1 {
     text-align: center;
+}
+#title {
+    padding-top: 4.55rem;
 }
 #input {
-    text-align: center;
+    margin: auto;
+}
+#btn {
+    background-color: rgb(93, 192, 223);
+    height: 2rem;
+    font-size: 1rem;
+    border-radius: .6rem;
+}
+#deliveredMessage {
+    color: rgb(93, 192, 223);
 }
